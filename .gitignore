@@ -1,0 +1,7 @@
+cmake-build-debug/
+CMakeFiles/
+Testing/
+
+CMakeCache.txt
+Makefile
+Stresser

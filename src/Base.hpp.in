@@ -1,0 +1,11 @@
+#pragma once
+
+#define VERSION "${Stresser_VERSION}"
+
+class Base {
+public:
+    void test();
+};
+
+
+
